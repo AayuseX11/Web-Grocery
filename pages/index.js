@@ -256,8 +256,8 @@ export default function FreshMartGroceryStore() {
           <div className="flex items-center justify-between h-16">
             {/* Logo */}
             <div className="flex items-center">
-              <h1 className="text-xl font-bold text-gray-900">Varsha Stores</h1>
-              <span className="text-sm text-gray-500 ml-2">Gali Mart</span>
+              <h1 className="text-xl font-bold text-gray-900">Santosh Stores</h1>
+              <span className="text-sm text-gray-500 ml-2">Grocery Mart</span>
             </div>
 
             {/* Search Bar */}
