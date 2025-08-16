@@ -1,0 +1,53 @@
+{
+  "name": "santosh-grocery-store",
+  "version": "1.0.0",
+  "description": "Advanced Next.js e-commerce grocery store with comprehensive features",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next export"
+  },
+  "dependencies": {
+    "next": "^14.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "framer-motion": "^11.3.17",
+    "react-hot-toast": "^2.4.1",
+    "lucide-react": "^0.263.1",
+    "react-confetti": "^6.1.0",
+    "react-hook-form": "^7.52.1",
+    "date-fns": "^3.6.0",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^2.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.5",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.6",
+    "autoprefixer": "^10.4.19"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "nextjs",
+    "ecommerce",
+    "grocery",
+    "react",
+    "tailwindcss",
+    "framer-motion",
+    "shopping-cart",
+    "responsive"
+  ],
+  "author": "Santosh Development Team",
+  "license": "MIT"
+}
