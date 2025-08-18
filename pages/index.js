@@ -7,7 +7,7 @@ import {
   Leaf, Shield, Menu, User, ShoppingBag
 } from 'lucide-react';
 
-// Enhanced Product Database matching the interface
+// If you change credits then you are a pet dog of aayusha💩
 const PRODUCT_DATABASE = [
   {
     id: 'veg_001',
